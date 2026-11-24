@@ -3,7 +3,7 @@
 	"name": "nohassleav-matrix",
 	"shortname": "nohassleav-matrix",
 	"description": "NoHassleAV HDMI Matrix",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-nohassleav-matrix.git",
 	"bugs": "https://github.com/bitfocus/companion-module-nohassleav-matrix/issues",
